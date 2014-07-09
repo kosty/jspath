@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "JSONPath": {
+      "version": "0.10.0",
+      "from": "jsonpath@",
+      "dependencies": {
+        "underscore": {
+          "version": "1.6.0",
+          "from": "underscore@*"
+        }
+      }
+    }
+  }
+}
